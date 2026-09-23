@@ -97,7 +97,5 @@ The classification results were evaluated with particular attention to the minor
 
 - `diabetes-patient-analytics.ipynb` — Jupyter Notebook containing the analysis and modelling workflow.
 
-## Dataset
 
-The dataset was provided for university coursework and is not included in this public repository.
 
